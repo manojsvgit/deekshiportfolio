@@ -3,7 +3,7 @@
 Welcome to **Deekshi's Portfolio**! This repository contains my personal portfolio website, showcasing my skills, projects, and experiences in the field of design and web development.
 ## 💻 Demo
 
-You can view the live version of my portfolio [here](#). *(Insert link to the live portfolio if available)*
+You can view the live version of my portfolio [Deekshi's Porfolio](https://manojsvgit.github.io/deekshiportfolio/)
 
 Thank you for visiting my portfolio!
 
