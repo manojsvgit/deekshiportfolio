@@ -275,12 +275,15 @@ nav a:hover {
 }
 
 .about-illustration {
-  flex: 1;
+  flex: 1; 
+  display: flex; 
+  justify-content: flex-end;
 }
 
 .about-illustration img {
-  max-width: 100%;
-  border-radius: 10px;
+  width: 50%;
+  height: auto;
+  animation: fadeIn 2s ease-in-out;
 }
 
 /* Design Challenge and Contact Form Section */
